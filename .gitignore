@@ -1,0 +1,12 @@
+input/
+output/
+references/
+flyer_log.csv
+*.jpg
+*.jpeg
+*.png
+*.webp
+__pycache__/
+
+!examples/
+!examples/*
